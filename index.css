@@ -1,0 +1,89 @@
+#head{
+    background: rgba(98,114,128,0.5);
+    box-shadow: brown 4px 4px 2px;
+    display: flex;
+    flex-direction: row;
+}
+#titre{
+    font-family: Andalus, "HoloLens MDL2 Assets", fantasy;
+    font-size: 20px;
+    margin: auto;
+    text-underline: none;
+}
+#loging{
+    float: right;
+}
+#Logo_Konnect_DEVAZ{
+    height: 87px;
+    width: 100px;
+    float: right;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#logout {
+    height: 25px;
+    width: 25px;
+    margin-top: 40px;
+    margin-right: 30px;
+    margin-left: 10px;
+}
+#login{
+    height: 25px;
+    width: 25px;
+}
+nav{
+    background: rgba(98,114,128,0.5);
+    box-shadow: brown 4px 4px 2px;
+    width: 20%;
+    height: 500px;
+    float: left;
+}
+ul,li{
+    list-style-type: none;
+    padding: 10px 10px;
+    font-size: 15px;
+    font-family: "Times New Roman";
+}
+#welcome{
+    float: right;
+    height: 400px;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+#welcome p{
+    font-size: 70px;
+    font-family: Calibri;
+    text-shadow: black 2px 2px 2px;
+    text-align: center;
+}
+#welcome img{
+    height: 258px;
+    width: 700px;
+    margin: auto;
+}
+#welcome #under{
+    height: 229px;
+    width: 200px;
+}
+footer{
+    clear: both;
+    position: relative;
+    height: 40px;
+    margin: auto;
+    text-align: center;
+}
+#logodevaz{
+    height: 38px;
+    width: 50px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+li a:hover{
+    color: blue;
+    font-size: 20px;
+}
+
