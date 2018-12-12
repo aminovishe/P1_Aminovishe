@@ -42,7 +42,7 @@ ul,li{
     list-style-type: none;
     padding: 10px 10px;
     font-size: 15px;
-    font-family: "Times New Roman";
+    font-family: "Times New Roman", serif;
 }
 #welcome{
     float: right;
@@ -54,7 +54,7 @@ ul,li{
 }
 #welcome p{
     font-size: 70px;
-    font-family: Calibri;
+    font-family: Calibri, fantasy;
     text-shadow: black 2px 2px 2px;
     text-align: center;
 }
